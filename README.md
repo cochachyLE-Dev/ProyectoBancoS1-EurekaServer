@@ -1,4 +1,4 @@
-![img](https://github.com/cochachyLE-Dev/ProyectoBancoS1-EurekaServer/blob/main/Diagram-ServiceDiscovery.PNG)
+![img](https://github.com/cochachyLE-Dev/ProyectoBancoS1-EurekaServer/blob/main/Diagram-Arquitecture.PNG)
 
 ![img](https://github.com/cochachyLE-Dev/ProyectoBancoS1-EurekaServer/blob/main/EurekaServer-Instances.PNG)
 

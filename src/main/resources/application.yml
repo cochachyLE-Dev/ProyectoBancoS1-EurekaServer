@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: Service-Discovery
+  cloud:
+    config:
+      username: user
+      password: password.
+  config:
+    import: configserver:http://localhost:8888  
+debug: false
